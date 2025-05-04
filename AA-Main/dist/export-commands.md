@@ -16,7 +16,7 @@ python .\export.py --weights "./your_model_path.pt" --include onnx --half --imgs
 2) Export “on DML” by adding a dml device flag
 If you really want to trace on the actual DirectML backend (e.g. to catch any ops that only exist in torch_directml), modify your export.py like this:
 
-```
+```python
 --- a/export.py
 +++ b/export.py
 @@ args = parser.parse_args()
