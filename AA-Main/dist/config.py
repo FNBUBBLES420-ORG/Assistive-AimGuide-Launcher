@@ -40,7 +40,8 @@ serialPort   = "COM3"
 
 # ONNX choice
 # 1 = CPUExecutionProvider
-# 2 = DmlExecutionProvider (AMD/DirectML)\# 3 = CUDAExecutionProvider (NVIDIA/CUDA)
+# 2 = DmlExecutionProvider (AMD/DirectML)
+# 3 = CUDAExecutionProvider (NVIDIA/CUDA)
 onnxChoice = 3  # choose 1 for CPU, 2 for AMD/DirectML, 3 for NVIDIA/CUDA
 
 # Device flags
