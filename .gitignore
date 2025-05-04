@@ -1,0 +1,55 @@
+# Python bytecode
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Virtual environments
+
+.venv/
+env/
+ENV/
+venv/
+
+# Distribution / packaging
+
+build/
+dist/
+\*.egg-info/
+pip-wheel-metadata/
+\*.whl
+
+# PyInstaller / Pyramor runtime
+
+pyramor\_runtime\_\*/
+build/
+
+# Model artifacts (if regenerated)
+
+engine-models/\sonnx-models/
+
+# Logs and temporary files
+
+\*.log
+\*.tmp
+
+# IDE and OS files
+
+.vscode/
+.idea/
+.DS\_Store
+Thumbs.db
+
+# Executables (unless intentionally committed)
+
+\*.exe
+\*.dll
+\*.so
+
+# Shell scripts
+
+\*.sh
+
+# Batch files (optional: commit your custom scripts if needed)
+
+# \*.bat
