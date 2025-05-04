@@ -1,19 +1,19 @@
-# engine
+## engine
 ```
 python .\export.py --weights ./"your_model_path.pt" --include engine --half --imgsz 320 320 --device 0
 ```
 
-# onnx 
+## onnx 
 ```
 python .\export.py --weights ./"your_model_path.pt" --include onnx --half --imgsz 320 320 --device 0
 ```
-# amd cpu
+## amd cpu
 ```
 python .\export.py --weights "./your_model_path.pt" --include onnx --half --imgsz 320 320 --device cpu
 ```
 
 
-2) Export “on DML” by adding a dml device flag
+## 2) Export “on DML” by adding a dml device flag
 If you really want to trace on the actual DirectML backend (e.g. to catch any ops that only exist in torch_directml), modify your export.py like this:
 
 ```python
