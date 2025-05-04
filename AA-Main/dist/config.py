@@ -50,5 +50,5 @@ cuda_enabled = True    # Set False to run on CPU
 fp16_enabled = True     # Set False to disable FP16
 
 # Path to your TensorRT/ONNX engine or YOLO model
-# model_path = "engine/v5.engine"
-model_path = "onnx/v5.onnx"  # ONNX model file
+# model_path = "engine-models/v5.engine"
+model_path = "onnx-models/v5.onnx"  # ONNX model file
