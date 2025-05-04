@@ -12,7 +12,9 @@
 
 # Assistive AimGuide Launcher
 
-An assistive aim guide for PC gamers, designed with accessibility in mind, leveraging AI models (TensorRT or ONNX Runtime) to provide smooth, human-like aiming assistance. This tool is especially beneficial for individuals with physical or cognitive disabilities, offering features like customizable controls, dynamic model loading, and easy-to-use interfaces to enhance gaming experiences. Includes:
+🎯 An assistive aim guide for PC gamers, designed with accessibility in mind. 🚀 Leveraging AI models (TensorRT or ONNX Runtime) to provide smooth, human‑like aiming assistance. 🤖 Especially beneficial for individuals with physical or cognitive disabilities, offering features like customizable controls 🕹️, dynamic model loading 🔄, and easy‑to‑use interfaces 🖥️ to enhance gaming experiences.
+
+## 📦 Includes:
 
 * **TensorRT** support for NVIDIA GPUs with FP16
 * **ONNX Runtime** support for CPU, AMD/DirectML, or NVIDIA/CUDA
