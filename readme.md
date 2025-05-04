@@ -31,7 +31,7 @@ An assistive aim guide for PC gamers, designed with accessibility in mind, lever
 1. **Windows 10/11**
 2. **Visual Studio 2022 Community Edition** (required for C++ build support when using AMD or NVIDIA GPUs)
    - Select **Desktop development with C++** workload in the installer
-3. **Python 3.11+**
+3. **Python 3.11+** `python3119.bat` ***included***
 4. **CUDA 11.8** (for NVIDIA/CUDA path) or **DirectML** (for AMD)
 
 **Common Python packages** (installed via `requirements.txt`, `autosetup.exe`):
