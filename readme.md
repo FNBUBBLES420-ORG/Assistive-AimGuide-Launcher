@@ -88,7 +88,7 @@ onnxruntime-directml
 cupy-cuda11x
 onnxruntime-gpu==1.17.0
 ```
-[https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/command.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/command.md)
+### [nvidia-command.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/nvidia-command.md)
 ---
 ```
 pip uninstall onnxruntime
