@@ -26,7 +26,6 @@ colorama
 onnx==1.17.0
 onnxruntime-gpu==1.17.0  # NVIDIA GPU support for 11.8
 onnx-simplifier
-onnxruntime==1.20.0
 
 
 # this is the update for the onnxruntime-gpu==1.21.1 for 11.8
