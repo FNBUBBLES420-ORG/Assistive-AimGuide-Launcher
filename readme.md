@@ -77,7 +77,6 @@ pyserial
 colorama
 onnx==1.17.0
 onnx-simplifier
-onnxruntime==1.20.0
 ```
 **AMD/DirectML-specific**:
 ```text
@@ -89,8 +88,13 @@ onnxruntime-directml
 cupy-cuda11x
 onnxruntime-gpu==1.17.0
 ```
-
+[https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/command.md](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/command.md)
 ---
+```
+pip uninstall onnxruntime
+```
+- `autosetup.exe` will install onnxruntime. just use the command above to uninstall. 
+
 
 ## 📥 How to Download the Repo (First-Time Users)
 
