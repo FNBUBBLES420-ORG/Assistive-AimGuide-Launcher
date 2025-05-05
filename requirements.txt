@@ -24,6 +24,12 @@ pyserial
 serial
 colorama
 onnx==1.17.0
-onnxruntime-gpu==1.17.0  # NVIDIA GPU support
+onnxruntime-gpu==1.17.0  # NVIDIA GPU support for 11.8
 onnx-simplifier
 onnxruntime==1.20.0
+
+
+# this is the update for the onnxruntime-gpu==1.21.1 for 11.8
+# if you install pip install onnxruntime-gpu==1.21.1 it will install default cuda12 and cudnn9 you DONT WANT THAT!!!!
+# uncomment below to install the correct updated version
+# pip install onnxruntime-gpu==1.21.1 --index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-11/pypi/simple/ --extra-index-url https://pypi.org/simple
