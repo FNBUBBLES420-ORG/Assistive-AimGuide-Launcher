@@ -49,6 +49,7 @@
 4. **CUDA 11.8** (for NVIDIA/CUDA path) or **DirectML** (for AMD)
 
 **Common Python packages** (installed via `requirements.txt`, `autosetup.exe`):
+- extract the `autosetup.zip` to in root directory, then run.
 - if you are installing via `requirements.txt` make sure to # comment out the parts if you do or dont have nvidia or amd gpus.
 - `autosetup.exe SHA256 6A98F785541F27C291592802E42B7B6185741C2E9A26CE6457F1386ADEF2F80B`
 ```text
