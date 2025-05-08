@@ -25,6 +25,11 @@
 * Launcher GUI (`launcher.py`) for easy script selection
 
 ---
+## If you are having issues !!!
+- Join our [Discord](https://discord.gg/9vG777kJYc) for support.
+- `assistive-aimguide` channel for help.
+- **PING** `@AssistiveAimguideDeveloper` for assistiants. 
+---
 
 > **> **For ease of use**, simply **double-click `autosetup.exe` and follow the on-screen prompts** to install Visual Studio 2022 (with C++ workload) and all Python dependencies automatically.
 
