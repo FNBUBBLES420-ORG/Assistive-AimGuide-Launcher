@@ -101,7 +101,7 @@ We've provided `install_requirements.bat` to simplify setup:
 
 ## ⚙️ Installation
 
-### Option 1: One-click via `autosetup.exe` (recommended)
+### Option 1: Install `python3119.bat` (recommended)
 
 ```powershell
 python3119.bat 
