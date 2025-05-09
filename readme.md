@@ -104,8 +104,15 @@ We've provided `install_requirements.bat` to simplify setup:
 ### Option 1: One-click via `autosetup.exe` (recommended)
 
 ```powershell
-./autosetup.exe
+python3119.bat 
 ```
+- run the `python3119.bat` first to install python.
+- after you successfully installed python. Simply type in a `NEW` cmd.exe window:
+```
+python --version
+```
+- print out should be `Python 3.11.9`
+
 
 This auto-detects your GPU (NVIDIA, AMD, or CPU), prompts for prerequisites, and installs the correct packages.
 
