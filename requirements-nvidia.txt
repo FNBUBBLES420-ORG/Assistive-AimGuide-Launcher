@@ -1,0 +1,38 @@
+# CUDA‑11.8 builds of torch  
+torch==2.7.0+cu118  
+torchvision==0.22.0+cu118  
+torchaudio==2.7.0+cu118  
+
+# ONNX Runtime GPU for CUDA 11.8  
+onnxruntime-gpu==1.17.0  
+
+# Optional: to get the 1.21.1 build pinned to CUDA‑11.8 (instead of the default CUDA‑12 packages), install manually:  
+pip install onnxruntime-gpu==1.21.1 --index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-11/pypi/simple/ --extra-index-url https://pypi.org/simple  
+
+# NVIDIA‑only GPU libs  
+cupy-cuda11x  
+
+# Everything else (common packages)  
+ultralytics  
+dxcam  
+bettercam  
+pygetwindow  
+pyautogui  
+pywin32  
+opencv-python==4.8.1.78  
+numpy==1.26.4  
+pandas  
+dill  
+psutil  
+requests  
+pyyaml  
+tqdm  
+matplotlib  
+seaborn  
+ipython  
+pyarmor  
+pyserial  
+serial  
+colorama  
+onnx==1.17.0  
+onnx-simplifier  
