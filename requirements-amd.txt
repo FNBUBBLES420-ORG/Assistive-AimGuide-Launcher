@@ -1,0 +1,35 @@
+# CPU/DirectML builds of torch  
+torch==2.7.0             # CPU build  
+torchvision==0.22.0      # CPU build  
+torchaudio==2.7.0        # CPU build  
+
+# Enable AMD GPU via DirectML  
+torch-directml  
+onnxruntime-directml  
+
+# Common ML formats  
+onnx==1.17.0  
+onnx-simplifier  
+
+# Everything else (same as NVIDIA list without the CUDA‑specific libs)  
+ultralytics  
+dxcam  
+bettercam  
+pygetwindow  
+pyautogui  
+pywin32  
+opencv-python==4.8.1.78  
+numpy==1.26.4  
+pandas  
+dill  
+psutil  
+requests  
+pyyaml  
+tqdm  
+matplotlib  
+seaborn  
+ipython  
+pyarmor  
+pyserial  
+serial  
+colorama  
