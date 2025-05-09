@@ -1,6 +1,7 @@
 @echo off
 REM ============================================
 REM install_requirements.bat
+REM For NVIDIA & AMD GPUs
 REM Windows-only setup for CUDA‑11.8 + ONNX + common libs
 REM Adds GPU detection & VS2022 requirement prompts
 REM ============================================
@@ -32,8 +33,8 @@ if /I "%gpu%"=="NVIDIA" (
     echo ==============================================
     echo 🔹 NVIDIA: Ensure CUDA 11.8, cuDNN ^& TensorRT are installed.
     echo    • CUDA: https://developer.nvidia.com/cuda-11-8-0-download-archive
-    echo    • cuDNN: https://developer.nvidia.com/cudnn
-    echo    • TensorRT: https://developer.nvidia.com/tensorrt
+    echo    • cuDNN: https://developer.nvidia.com/downloads/compute/cudnn/secure/8.9.6/local_installers/11.x/cudnn-windows-x86_64-8.9.6.50_cuda11-archive.zip/
+    echo    • TensorRT: https://developer.nvidia.com/downloads/compute/machine-learning/tensorrt/secure/8.6.1/zip/TensorRT-8.6.1.6.Windows10.x86_64.cuda-11.8.zip
     echo ==============================================
     pause
 )
