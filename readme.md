@@ -166,23 +166,6 @@ Use the GUI to start your scripts without the command line:
 
 ---
 
-## Screenshot
-<div align="left">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic1.png" width="350">
-</div>
-<div align="left">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic2.png" width="400">
-</div>
-<div align="left">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic3.png" width="400">
-</div>
-<div align="left">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic4.png" width="350">
-</div>
-
-
-
-
 ## 🛠 Troubleshooting
 
 * **Module errors**: ensure dependencies installed via `install.exe`.
@@ -194,3 +177,21 @@ Use the GUI to start your scripts without the command line:
 ## 📝 License
 
 **This project is proprietary and all rights are reserved by the author.** Unauthorized copying, distribution, or modification is strictly prohibited without written permission from the developer or FNBUBBLES420 ORG.
+
+---
+
+
+
+## Screenshot
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic1.png" width="450">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic2.png" width="450">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic3.png" width="450">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic4.png" width="450">
+</div>
