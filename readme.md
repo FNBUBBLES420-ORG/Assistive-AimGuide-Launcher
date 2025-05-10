@@ -62,15 +62,10 @@
 
 ## ⚙️ Batch File Installer
 
-We've provided `install_requirements.bat` to simplify setup:
-
-1. **Save** the `install_requirements.bat` script to the project root.
-2. **Open** Command Prompt **as Administrator** and navigate to the repository folder.
-3. **Run**:
-
-   ```bat
-   install_requirements.bat
-   ```
+We've made it simple setup
+1. unzip the `install.zip` in root directory.
+2. double click on the install.exe.
+3. read below
 4. **Follow** the on-screen prompts:
 
    * Enter **NVIDIA** or **AMD** when asked.
