@@ -193,5 +193,5 @@ Use the GUI to start your scripts without the command line:
   <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic3.png" width="600">
 </div>
 <div align="left">
-  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic4.png" width="350">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic4.png" width="300">
 </div>
