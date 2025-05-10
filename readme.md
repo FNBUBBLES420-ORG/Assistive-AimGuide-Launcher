@@ -125,9 +125,10 @@ Follow the prompts to install everything.
 
 1. **Detect environment**:
 
-   ```bash
-   python detect_env.py
-   ```
+```bash
+run the launcher.bat it will launch the launcher, tab menu click Diagnostics
+```
+- click `Run Diagnostics`
 
    * Confirms GPU, CUDA version, and library versions.
 2. **Run a demo**:
