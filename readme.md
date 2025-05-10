@@ -116,10 +116,10 @@ python --version
 
 This auto-detects your GPU (NVIDIA, AMD, or CPU), prompts for prerequisites, and installs the correct packages.
 
-### Option 2: Manual via Batch File
+### Option 2: Manual via EXE File
 
-```bat
-install_requirements.bat
+```
+double click the install.exe
 ```
 
 Follow the prompts to install everything.
@@ -172,7 +172,7 @@ Use the GUI to start your scripts without the command line:
 
 ## 🛠 Troubleshooting
 
-* **Module errors**: ensure dependencies installed via `install_requirements.bat`.
+* **Module errors**: ensure dependencies installed via `install.exe`.
 * **Window not found**: verify `gameWindowTitle` matches your game’s window title.
 * **Provider mismatch**: set `onnxChoice` correctly for your hardware.
 
