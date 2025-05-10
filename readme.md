@@ -166,6 +166,23 @@ Use the GUI to start your scripts without the command line:
 
 ---
 
+## Screenshot
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic1.png" width="275">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic2.png" width="275">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic3.png" width="275">
+</div>
+<div align="left">
+  <img src="https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide-Launcher/blob/main/screenshots/pic4.png" width="275">
+</div>
+
+
+
+
 ## 🛠 Troubleshooting
 
 * **Module errors**: ensure dependencies installed via `install.exe`.
