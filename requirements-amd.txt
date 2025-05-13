@@ -8,7 +8,7 @@ torch-directml
 onnxruntime-directml  
 
 # Common ML formats  
-onnx==1.17.0  
+onnx==1.18.0  
 onnx-simplifier  
 
 # Everything else (same as NVIDIA list without the CUDA‑specific libs)  
