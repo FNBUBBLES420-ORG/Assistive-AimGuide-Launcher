@@ -34,5 +34,5 @@ pyarmor
 pyserial  
 serial  
 colorama  
-onnx==1.17.0  
+onnx==1.18.0
 onnx-simplifier  
