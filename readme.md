@@ -63,7 +63,7 @@
 ## ⚙️ Batch File Installer
 
 We've made it simple setup
-1. unzip the `install.zip` in root directory.
+1. unzip the `autosetup.zip` in root directory.
 2. double click on the install.exe.
 3. read below
 4. **Follow** the on-screen prompts:
