@@ -39,3 +39,4 @@ onnx-simplifier==0.4.36
 | ------- | ------------------ |
 | Visual Studio 2022 | :white_check_mark: |
 | Python 3.11.9 | :white_check_mark: |
+| Cuda 11.8 | :white_check_mark: |
