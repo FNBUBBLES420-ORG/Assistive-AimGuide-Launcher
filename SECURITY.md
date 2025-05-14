@@ -29,9 +29,4 @@ opencv-python==4.8.1.78
 numpy==1.26.4
 onnx==1.18.0
 onnx-simplifier==0.4.36
-
-
-
-
-
-
+```
