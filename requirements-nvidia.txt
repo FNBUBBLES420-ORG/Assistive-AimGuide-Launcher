@@ -35,4 +35,4 @@ pyserial
 serial  
 colorama  
 onnx==1.18.0
-onnx-simplifier  
+onnx-simplifier==0.4.36 
