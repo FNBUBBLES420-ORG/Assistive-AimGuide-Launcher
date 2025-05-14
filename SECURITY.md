@@ -6,6 +6,10 @@
 
 some versions may get updated
 
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.3.02854dw   | :white_check_mark: |
+
 ## Supported Versions
 **NVIDIA**
 ```
@@ -30,3 +34,8 @@ numpy==1.26.4
 onnx==1.18.0
 onnx-simplifier==0.4.36
 ```
+
+| Version | Supported          |
+| ------- | ------------------ |
+| Visual Studio 2022 | :white_check_mark: |
+| Python 3.11.9 | :white_check_mark: |
