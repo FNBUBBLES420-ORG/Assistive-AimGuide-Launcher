@@ -9,7 +9,7 @@ onnxruntime-directml
 
 # Common ML formats  
 onnx==1.18.0  
-onnx-simplifier  
+onnx-simplifier==0.4.36
 
 # Everything else (same as NVIDIA list without the CUDA‑specific libs)  
 ultralytics  
