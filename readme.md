@@ -29,7 +29,7 @@
 
 ## If you are having issues!!!
 
-* Join our [Discord](https://discord.gg/9vG777kJYc) for support.
+* Join our [Discord](https://discord.gg/FxJd3PxXbc) for support.
 * `assistive-aimguide` channel for help.
 * **PING** `@AssistiveAimguideDeveloper` for assistance.
 
